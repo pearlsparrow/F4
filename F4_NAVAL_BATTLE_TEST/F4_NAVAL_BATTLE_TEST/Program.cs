@@ -10,10 +10,10 @@ namespace F4_NavalBattle
 
 
             Play();
-
+            Console.WriteLine("Thanks for playing");
             Console.ReadLine();
 
-
+            
 
         }
 
