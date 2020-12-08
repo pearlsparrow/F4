@@ -1,0 +1,7 @@
+C:\Users\pearl\source\repos\F4_NAVAL_BATTLE_TEST\F4_NAVAL_BATTLE_TEST\bin\Debug\F4_NAVAL_BATTLE_TEST.exe.config
+C:\Users\pearl\source\repos\F4_NAVAL_BATTLE_TEST\F4_NAVAL_BATTLE_TEST\bin\Debug\F4_NAVAL_BATTLE_TEST.exe
+C:\Users\pearl\source\repos\F4_NAVAL_BATTLE_TEST\F4_NAVAL_BATTLE_TEST\bin\Debug\F4_NAVAL_BATTLE_TEST.pdb
+C:\Users\pearl\source\repos\F4_NAVAL_BATTLE_TEST\F4_NAVAL_BATTLE_TEST\obj\Debug\F4_NAVAL_BATTLE_TEST.csprojAssemblyReference.cache
+C:\Users\pearl\source\repos\F4_NAVAL_BATTLE_TEST\F4_NAVAL_BATTLE_TEST\obj\Debug\F4_NAVAL_BATTLE_TEST.csproj.CoreCompileInputs.cache
+C:\Users\pearl\source\repos\F4_NAVAL_BATTLE_TEST\F4_NAVAL_BATTLE_TEST\obj\Debug\F4_NAVAL_BATTLE_TEST.exe
+C:\Users\pearl\source\repos\F4_NAVAL_BATTLE_TEST\F4_NAVAL_BATTLE_TEST\obj\Debug\F4_NAVAL_BATTLE_TEST.pdb
